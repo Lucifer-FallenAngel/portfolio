@@ -1,0 +1,7 @@
+Ridgebot : - https://ridgesecurity.ai/wp-content/uploads/ridge-logo-footer.svg
+Hydra : - https://www.kali.org/tools/hydra/images/hydra-logo.svg
+Metasploit : - https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg
+burpsuit : - https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg
+John : - https://www.kali.org/tools/john/images/john-logo.svg
+Wireshark : - https://www.kali.org/tools/wireshark/images/wireshark-logo.svg
+Hash-identifier : - https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg
